@@ -4,7 +4,7 @@ import org.w3c.dom.xpath.XPathResult;
 
 import javax.swing.JOptionPane;
 import java.sql.SQLOutput;
-//SEMANA 2
+//                                                                                           SEMANA 2
 public class Main {
 
     public static void main(String[] args) {
